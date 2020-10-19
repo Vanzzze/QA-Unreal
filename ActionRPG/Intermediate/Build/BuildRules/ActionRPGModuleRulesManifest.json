@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\geras\\Downloads\\UE4AutotestLecture-master\\ActionRPG\\Source\\ActionRPG\\ActionRPG.Build.cs",
+		"C:\\Users\\geras\\Downloads\\UE4AutotestLecture-master\\ActionRPG\\Source\\ActionRPGLoadingScreen\\ActionRPGLoadingScreen.Build.cs",
+		"C:\\Users\\geras\\Downloads\\UE4AutotestLecture-master\\ActionRPG\\Source\\ActionRPG.Target.cs",
+		"C:\\Users\\geras\\Downloads\\UE4AutotestLecture-master\\ActionRPG\\Source\\ActionRPGEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
